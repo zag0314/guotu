@@ -37,7 +37,6 @@ public class JeecgApplication extends SpringBootServletInitializer {
 //      System.setProperty("spring.devtools.restart.enabled", "true");
 //      SpringApplication.run(JeecgApplication.class, args);
 
-
   }
 
 //    @Override
